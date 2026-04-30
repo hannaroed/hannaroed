@@ -1,9 +1,9 @@
 # Hey, I'm Hanna
 
-I love math, code, and machine learning.
+I enjoy math, code, and machine learning.
 
-I mostly build with Python/R/C++.
+I mostly work with Python, R, and C++, and recently I’ve been spending a lot of time on language models.
 
-Most of my recent work has been on language models — always down to meet new people, chat, and tackle cool problems.
+Always happy to meet new people, chat about ideas, or tackle interesting problems.
 
 [email](mailto:hanna.roed1@gmail.com)
